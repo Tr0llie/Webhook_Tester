@@ -11,6 +11,21 @@ A simple script that'll let you test your webhook ratelimit
 *Gooluck!*
 
 # Startup 
+
+**Clone using ssh** 
+```git clone git@github.com:Tr0llie/Webhook_Tester.git```
+
+**Clone using https**
+``` git clone https://github.com/Tr0llie/Webhook_Tester.git```
+
+**Clone using gh cli**
+```gh repo clone Tr0llie/Webhook_Tester```
+
+**(or) download the repo as a .zip file** 
+```https://github.com/Tr0llie/Webhook_Tester/archive/refs/heads/main.zip```
+
+Then
+
 make a virtual env so the python script can run correctly
 
 Then
